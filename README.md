@@ -62,8 +62,7 @@ graph LR
 
 ## 👨‍💻 Autor
 
-Bernardo Henrique\
-**Data & AI Engineering Enthusiast**
+Bernardo Henrique
 ------------------------------------------------------------------------
 
 ## 📄 Licença
