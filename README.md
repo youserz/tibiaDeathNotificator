@@ -1,4 +1,4 @@
-# 💀 Tibia Death Monitor
+# 💀 Tibia Death Notificator
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-5.1-000080?style=for-the-badge&logo=lua&logoColor=white)
